@@ -1,0 +1,31 @@
+body {
+    color: rgb(130, 36, 100);
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/538/623/original/bubbles-soap-on-pink-background-vector.jpg');
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a {
+    color: rgb(130, 36, 100);
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid pink;
+}
+
+.center {
+    text-align: center;
+}
+.container {
+   padding: 0px 50px ; 
+}
